@@ -48,11 +48,11 @@ Hi, I'm Sherif Mohammed, a professional pharmacist and data enthusiast. I specia
 Let's connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sherif-mohamed-63a233261" target="_blank">
+  <a href="https://www.linkedin.com/in/sherif-mohammed-8a0aa3162" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sherifmo7amed77@gmail.com">
+  <a href="mailto:sherifmohammed611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button"/>
   </a>
 </p>
